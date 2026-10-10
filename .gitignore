@@ -1,0 +1,46 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+venv/
+
+*.py[cod]
+
+# React / Node
+node_modules/
+dist/
+
+# Spring Boot
+target/
+
+# Uploaded invoice files
+facture-backend/uploads/
+
+.env
+
+# OCR generated results
+facture-python/ocr_results/
+
+
+# Python virtual environment
+.venv/
+venv/
+
+# IDE configuration
+.idea/
+*.iml
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated OCR results
+ocr_results/
+
+# Secrets
+.env
